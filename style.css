@@ -2,3 +2,23 @@ html, body {
   height: 100%;
   width: 100%;
 }
+
+:root {
+  background-color: #1c2333;
+  font-family: "Popins", sans-serif;
+}
+
+a {
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+h1 {
+    color: #1c45cc;
+  font-weight: bold;
+}
+
+p {
+  color: #fff;
+}
